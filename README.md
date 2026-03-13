@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Emihle</h1>
-<h3 align="center">A passionate full-stack developer from South Africa</h3>
+<h3 align="center">I'm a passionate full-stack developer based in South Africa</h3>
+- My main stack is Microsoft 
 
-- 🔭 I’m currently working on [Task Manager](https://github.com/SnowyParis/TaskManager)
+- I’m currently working on [Task Manager](https://github.com/SnowyParis/TaskManager)
 
-- 🌱 I’m currently learning **JavaScript**
+- I’m currently learning **JavaScript**
 
 - 📫 How to reach me **rosiemakala82@gmail.com**
 
