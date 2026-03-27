@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emihle</h1>
 <h3 align="center">I'm a passionate full-stack developer based in South Africa</h3>
 
-- I’m currently working on [Task Manager](https://github.com/SnowyParis/TaskManager)
+- I’m currently working on [Weather App](https://github.com/SnowyParis/Weather-App)
 
 - My main stack is Microsoft 
 
