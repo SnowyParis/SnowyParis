@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emihle</h1>
-<h3 align="center">I'm a passionate full-stack developer based in South Africa</h3>
+<h3 align="center">I'm an aspiring software engineer based in South Africa</h3>
 
 - I’m currently working on [Weather App](https://github.com/SnowyParis/Weather-App)
 
