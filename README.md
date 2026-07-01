@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emihle</h1>
-🎓 I'm a BSc graduate and an aspiring software engineer based in South Africa<br>💻 I’m currently working on [Weather App](https://github.com/SnowyParis/Weather-App) <br>🚀My main stack is Microsoft <br>🌱I’m currently learning JavaScript<br>📫 How to reach me [rosiemakala82@gmail.com](mailto:rosiemakala82@gmail.com)
+🎓 I'm a BSc graduate and an aspiring software engineer based in South Africa<br>💻 I’m currently working on [Cake Shop](https://github.com/SnowyParis/Cake-Shop) <br>🚀My main stack is Microsoft <br>🌱I’m currently learning JavaScript<br>📫 How to reach me [rosiemakala82@gmail.com](mailto:rosiemakala82@gmail.com)
 
 
 ## 🌐 Socials:
