@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h3>Hi 👋, I'm Emihle</h3><br>🎓 I'm a BSc graduate and an aspiring software engineer based in South Africa<br>💻 I’m currently working on [Movie App](https://github.com/SnowyParis/Movies-and-Series-App)<br>🚀My main stack is Microsoft<br>🌱I’m currently learning React<br>📫 How to reach me [rosiemakala82@gmail.com](mailto:rosiemakala82@gmail.com)
+Hi 👋, I'm Emihle<br>🎓 I'm a BSc graduate and an aspiring software engineer based in South Africa<br>💻 I’m currently working on [Movie App](https://github.com/SnowyParis/Movies-and-Series-App)<br>🚀My main stack is Microsoft<br>🌱I’m currently learning React<br>📫 How to reach me [rosiemakala82@gmail.com](mailto:rosiemakala82@gmail.com)
 
 
 ## 🌐 Socials:
